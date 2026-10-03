@@ -1,0 +1,572 @@
+{
+  "Jeevanandham.M": [
+    {
+      "id": "396fea3e-b8c1-4dd7-83bd-98d229367e33",
+      "username": "Jeevanandham.M",
+      "timestamp": "2026-09-26T08:37:38.382127",
+      "recommendation_type": "home",
+      "input_summary": {
+        "total_budget": 50000.0,
+        "num_lights": 5,
+        "num_fans": 4,
+        "num_furniture": 2,
+        "num_dining_tables": 1,
+        "has_living_room": true,
+        "has_kitchen": true,
+        "has_bedroom": false,
+        "additional_requirements": null
+      },
+      "result_summary": {
+        "total_budget": 50000.0,
+        "remaining_budget": 2600.0
+      },
+      "full_result": {
+        "total_budget": 50000.0,
+        "budget_breakdown": [
+          {
+            "category": "Lighting",
+            "allocation": 4400.0,
+            "items": [
+              {
+                "name": "3-Light Cluster Pendant Hanging Lamp",
+                "description": "Black matte geometric cage pendant lamp suitable for living room focal lighting or over the dining space.",
+                "estimated_price": 1700.0,
+                "quantity": 1,
+                "search_terms": "geometric cluster hanging ceiling pendant light living room Amazon India",
+                "shopping_links": {
+                  "amazon": "https://www.amazon.in/s?k=geometric+cluster+hanging+ceiling+pendant+light+living+room+Amazon+India",
+                  "flipkart": "https://www.flipkart.com/search?q=geometric+cluster+hanging+ceiling+pendant+light+living+room+Amazon+India",
+                  "ikea": "https://www.ikea.com/in/en/search/?q=geometric+cluster+hanging+ceiling+pendant+light+living+room+Amazon+India",
+                  "myntra": "https://www.myntra.com/search?q=geometric+cluster+hanging+ceiling+pendant+light+living+room+Amazon+India",
+                  "ajio": "https://www.ajio.com/search/?text=geometric+cluster+hanging+ceiling+pendant+light+living+room+Amazon+India"
+                }
+              },
+              {
+                "name": "Warm White Up-Down LED Wall Sconces",
+                "description": "Minimalist aluminum dual-beam wall sconces for accent lighting on the living room feature wall.",
+                "estimated_price": 800.0,
+                "quantity": 2,
+                "search_terms": "modern up down led wall light warm white Flipkart",
+                "shopping_links": {
+                  "amazon": "https://www.amazon.in/s?k=modern+up+down+led+wall+light+warm+white+Flipkart",
+                  "flipkart": "https://www.flipkart.com/search?q=modern+up+down+led+wall+light+warm+white+Flipkart",
+                  "ikea": "https://www.ikea.com/in/en/search/?q=modern+up+down+led+wall+light+warm+white+Flipkart",
+                  "myntra": "https://www.myntra.com/search?q=modern+up+down+led+wall+light+warm+white+Flipkart",
+                  "ajio": "https://www.ajio.com/search/?text=modern+up+down+led+wall+light+warm+white+Flipkart"
+                }
+              },
+              {
+                "name": "Philips 20W Round Surface LED Panel Light",
+                "description": "Bright, glare-free cool day white ceiling lights ideal for kitchen countertop and task illumination.",
+                "estimated_price": 550.0,
+                "quantity": 2,
+                "search_terms": "Philips 20W surface mount round LED panel light white Amazon India",
+                "shopping_links": {
+                  "amazon": "https://www.amazon.in/s?k=Philips+20W+surface+mount+round+LED+panel+light+white+Amazon+India",
+                  "flipkart": "https://www.flipkart.com/search?q=Philips+20W+surface+mount+round+LED+panel+light+white+Amazon+India",
+                  "ikea": "https://www.ikea.com/in/en/search/?q=Philips+20W+surface+mount+round+LED+panel+light+white+Amazon+India",
+                  "myntra": "https://www.myntra.com/search?q=Philips+20W+surface+mount+round+LED+panel+light+white+Amazon+India",
+                  "ajio": "https://www.ajio.com/search/?text=Philips+20W+surface+mount+round+LED+panel+light+white+Amazon+India"
+                }
+              }
+            ]
+          },
+          {
+            "category": "Ceiling Fans",
+            "allocation": 7200.0,
+            "items": [
+              {
+                "name": "Crompton Hill Briz 1200 mm High Speed Ceiling Fan",
+                "description": "Reliable 1200mm sweep, 370 RPM high-speed ceiling fans with 100% copper motor for living room, kitchen, and bedrooms.",
+                "estimated_price": 1800.0,
+                "quantity": 4,
+                "search_terms": "Crompton Hill Briz 1200mm ceiling fan Flipkart",
+                "shopping_links": {
+                  "amazon": "https://www.amazon.in/s?k=Crompton+Hill+Briz+1200mm+ceiling+fan+Flipkart",
+                  "flipkart": "https://www.flipkart.com/search?q=Crompton+Hill+Briz+1200mm+ceiling+fan+Flipkart",
+                  "ikea": "https://www.ikea.com/in/en/search/?q=Crompton+Hill+Briz+1200mm+ceiling+fan+Flipkart",
+                  "myntra": "https://www.myntra.com/search?q=Crompton+Hill+Briz+1200mm+ceiling+fan+Flipkart",
+                  "ajio": "https://www.ajio.com/search/?text=Crompton+Hill+Briz+1200mm+ceiling+fan+Flipkart"
+                }
+              }
+            ]
+          },
+          {
+            "category": "Dining Furniture",
+            "allocation": 16500.0,
+            "items": [
+              {
+                "name": "Solid Wood 4-Seater Dining Table Set with Cushioned Chairs",
+                "description": "Compact Sheesham/engineered wood finish dining table with four comfortable upholstered chairs.",
+                "estimated_price": 16500.0,
+                "quantity": 1,
+                "search_terms": "4 seater wooden dining table set with chairs Wakefit Amazon India",
+                "shopping_links": {
+                  "amazon": "https://www.amazon.in/s?k=4+seater+wooden+dining+table+set+with+chairs+Wakefit+Amazon+India",
+                  "flipkart": "https://www.flipkart.com/search?q=4+seater+wooden+dining+table+set+with+chairs+Wakefit+Amazon+India",
+                  "ikea": "https://www.ikea.com/in/en/search/?q=4+seater+wooden+dining+table+set+with+chairs+Wakefit+Amazon+India",
+                  "myntra": "https://www.myntra.com/search?q=4+seater+wooden+dining+table+set+with+chairs+Wakefit+Amazon+India",
+                  "ajio": "https://www.ajio.com/search/?text=4+seater+wooden+dining+table+set+with+chairs+Wakefit+Amazon+India"
+                }
+              }
+            ]
+          },
+          {
+            "category": "Living Room Furniture",
+            "allocation": 19300.0,
+            "items": [
+              {
+                "name": "Wakefit / Furny 3-Seater Fabric Sofa",
+                "description": "High-density foam 3-seater compact sofa with durable jute-fabric upholstery for the living room.",
+                "estimated_price": 14500.0,
+                "quantity": 1,
+                "search_terms": "3 seater modern fabric sofa couch living room Amazon India",
+                "shopping_links": {
+                  "amazon": "https://www.amazon.in/s?k=3+seater+modern+fabric+sofa+couch+living+room+Amazon+India",
+                  "flipkart": "https://www.flipkart.com/search?q=3+seater+modern+fabric+sofa+couch+living+room+Amazon+India",
+                  "ikea": "https://www.ikea.com/in/en/search/?q=3+seater+modern+fabric+sofa+couch+living+room+Amazon+India",
+                  "myntra": "https://www.myntra.com/search?q=3+seater+modern+fabric+sofa+couch+living+room+Amazon+India",
+                  "ajio": "https://www.ajio.com/search/?text=3+seater+modern+fabric+sofa+couch+living+room+Amazon+India"
+                }
+              },
+              {
+                "name": "Bluewud Floor-Standing Engineered Wood TV Console Table",
+                "description": "Walnut finish entertainment unit with open shelves and storage compartments for TV setup and decor.",
+                "estimated_price": 4800.0,
+                "quantity": 1,
+                "search_terms": "Bluewud engineered wood TV unit table console Flipkart",
+                "shopping_links": {
+                  "amazon": "https://www.amazon.in/s?k=Bluewud+engineered+wood+TV+unit+table+console+Flipkart",
+                  "flipkart": "https://www.flipkart.com/search?q=Bluewud+engineered+wood+TV+unit+table+console+Flipkart",
+                  "ikea": "https://www.ikea.com/in/en/search/?q=Bluewud+engineered+wood+TV+unit+table+console+Flipkart",
+                  "myntra": "https://www.myntra.com/search?q=Bluewud+engineered+wood+TV+unit+table+console+Flipkart",
+                  "ajio": "https://www.ajio.com/search/?text=Bluewud+engineered+wood+TV+unit+table+console+Flipkart"
+                }
+              }
+            ]
+          }
+        ],
+        "remaining_budget": 2600.0,
+        "additional_suggestions": [
+          "Use the remaining Rs.2600 to purchase E27 warm-white LED filament bulbs for the cluster pendant light and pay for electrician installation charges.",
+          "Look out for festive sales (like Amazon Great Indian Festival or Flipkart Big Billion Days) to secure additional 10-15% discounts and free delivery.",
+          "Consider adding peel-and-stick backsplash wallpaper in the kitchen to complement the new bright LED panel lighting."
+        ],
+        "calculation_table": [
+          {
+            "category": "Lighting",
+            "items_count": 3,
+            "total_cost": 3050.0,
+            "percentage_of_budget": 6.1
+          },
+          {
+            "category": "Ceiling Fans",
+            "items_count": 1,
+            "total_cost": 1800.0,
+            "percentage_of_budget": 3.6
+          },
+          {
+            "category": "Dining Furniture",
+            "items_count": 1,
+            "total_cost": 16500.0,
+            "percentage_of_budget": 33.0
+          },
+          {
+            "category": "Living Room Furniture",
+            "items_count": 2,
+            "total_cost": 19300.0,
+            "percentage_of_budget": 38.6
+          }
+        ]
+      }
+    },
+    {
+      "id": "3add8bd0-1bba-4bcd-9d63-ce821a6776ab",
+      "username": "Jeevanandham.M",
+      "timestamp": "2026-09-30T04:28:55.520554",
+      "recommendation_type": "home",
+      "input_summary": {
+        "total_budget": 30000.0,
+        "num_lights": 5,
+        "num_fans": 4,
+        "num_furniture": 2,
+        "num_dining_tables": 1,
+        "has_living_room": true,
+        "has_kitchen": true,
+        "has_bedroom": false,
+        "additional_requirements": null
+      },
+      "result_summary": {
+        "total_budget": 30000.0,
+        "remaining_budget": 4304.0
+      },
+      "full_result": {
+        "total_budget": 30000.0,
+        "budget_breakdown": [
+          {
+            "category": "lighting",
+            "allocation": 3099.0,
+            "items": [
+              {
+                "name": "Geometric Metal Diamond Hanging Pendant Ceiling Lamp",
+                "description": "Black matte finished pendant light fixture with E27 holder, ideal for ambient accent lighting over the living room seating area or dining space.",
+                "estimated_price": 899.0,
+                "quantity": 1,
+                "search_terms": "geometric metal cage pendant ceiling hanging light living room amazon india",
+                "shopping_links": {
+                  "amazon": "https://www.amazon.in/s?k=geometric+metal+cage+pendant+ceiling+hanging+light+living+room+amazon+india",
+                  "flipkart": "https://www.flipkart.com/search?q=geometric+metal+cage+pendant+ceiling+hanging+light+living+room+amazon+india",
+                  "ikea": "https://www.ikea.com/in/en/search/?q=geometric+metal+cage+pendant+ceiling+hanging+light+living+room+amazon+india",
+                  "myntra": "https://www.myntra.com/search?q=geometric+metal+cage+pendant+ceiling+hanging+light+living+room+amazon+india",
+                  "ajio": "https://www.ajio.com/search/?text=geometric+metal+cage+pendant+ceiling+hanging+light+living+room+amazon+india"
+                }
+              },
+              {
+                "name": "Philips AstraLine 20W Cool Day White LED Batten",
+                "description": "Energy-efficient 20W linear LED tube batten delivering 2000 lumens, suitable for bright general illumination in the kitchen and living room.",
+                "estimated_price": 450.0,
+                "quantity": 2,
+                "search_terms": "Philips 20W LED batten cool day white Flipkart",
+                "shopping_links": {
+                  "amazon": "https://www.amazon.in/s?k=Philips+20W+LED+batten+cool+day+white+Flipkart",
+                  "flipkart": "https://www.flipkart.com/search?q=Philips+20W+LED+batten+cool+day+white+Flipkart",
+                  "ikea": "https://www.ikea.com/in/en/search/?q=Philips+20W+LED+batten+cool+day+white+Flipkart",
+                  "myntra": "https://www.myntra.com/search?q=Philips+20W+LED+batten+cool+day+white+Flipkart",
+                  "ajio": "https://www.ajio.com/search/?text=Philips+20W+LED+batten+cool+day+white+Flipkart"
+                }
+              },
+              {
+                "name": "Wipro Garnet 10W Surface Mount Round LED Downlight / Wall Sconce",
+                "description": "Warm white surface-mounted compact spotlight fixture designed for focal wall illumination and ambient hallway or living area lighting.",
+                "estimated_price": 650.0,
+                "quantity": 2,
+                "search_terms": "Wipro 10W surface round COB LED downlight warm white Amazon",
+                "shopping_links": {
+                  "amazon": "https://www.amazon.in/s?k=Wipro+10W+surface+round+COB+LED+downlight+warm+white+Amazon",
+                  "flipkart": "https://www.flipkart.com/search?q=Wipro+10W+surface+round+COB+LED+downlight+warm+white+Amazon",
+                  "ikea": "https://www.ikea.com/in/en/search/?q=Wipro+10W+surface+round+COB+LED+downlight+warm+white+Amazon",
+                  "myntra": "https://www.myntra.com/search?q=Wipro+10W+surface+round+COB+LED+downlight+warm+white+Amazon",
+                  "ajio": "https://www.ajio.com/search/?text=Wipro+10W+surface+round+COB+LED+downlight+warm+white+Amazon"
+                }
+              }
+            ]
+          },
+          {
+            "category": "ceiling_fans",
+            "allocation": 6600.0,
+            "items": [
+              {
+                "name": "Crompton Surebreeze Hill Briz 1200 mm High-Speed Ceiling Fan",
+                "description": "Reliable 1200 mm sweep, 390 RPM ceiling fan with 100% copper motor and double ball bearings, finished in Lustre White or Brown for living room and bedrooms.",
+                "estimated_price": 1650.0,
+                "quantity": 4,
+                "search_terms": "Crompton Surebreeze Hill Briz 1200mm ceiling fan Amazon India",
+                "shopping_links": {
+                  "amazon": "https://www.amazon.in/s?k=Crompton+Surebreeze+Hill+Briz+1200mm+ceiling+fan+Amazon+India",
+                  "flipkart": "https://www.flipkart.com/search?q=Crompton+Surebreeze+Hill+Briz+1200mm+ceiling+fan+Amazon+India",
+                  "ikea": "https://www.ikea.com/in/en/search/?q=Crompton+Surebreeze+Hill+Briz+1200mm+ceiling+fan+Amazon+India",
+                  "myntra": "https://www.myntra.com/search?q=Crompton+Surebreeze+Hill+Briz+1200mm+ceiling+fan+Amazon+India",
+                  "ajio": "https://www.ajio.com/search/?text=Crompton+Surebreeze+Hill+Briz+1200mm+ceiling+fan+Amazon+India"
+                }
+              }
+            ]
+          },
+          {
+            "category": "dining",
+            "allocation": 7499.0,
+            "items": [
+              {
+                "name": "IKEA SANDSBERG 4-Seater Dining Table (Black/Stained)",
+                "description": "Minimalist modern dining table with a powder-coated steel frame and a durable wooden-grain melamine top, designed for compact living spaces.",
+                "estimated_price": 7499.0,
+                "quantity": 1,
+                "search_terms": "IKEA SANDSBERG dining table 4 seater black metal wood",
+                "shopping_links": {
+                  "amazon": "https://www.amazon.in/s?k=IKEA+SANDSBERG+dining+table+4+seater+black+metal+wood",
+                  "flipkart": "https://www.flipkart.com/search?q=IKEA+SANDSBERG+dining+table+4+seater+black+metal+wood",
+                  "ikea": "https://www.ikea.com/in/en/search/?q=IKEA+SANDSBERG+dining+table+4+seater+black+metal+wood",
+                  "myntra": "https://www.myntra.com/search?q=IKEA+SANDSBERG+dining+table+4+seater+black+metal+wood",
+                  "ajio": "https://www.ajio.com/search/?text=IKEA+SANDSBERG+dining+table+4+seater+black+metal+wood"
+                }
+              }
+            ]
+          },
+          {
+            "category": "furniture",
+            "allocation": 8498.0,
+            "items": [
+              {
+                "name": "Bluewud Primus Engineered Wood TV Console & Entertainment Unit",
+                "description": "Floor-standing living room entertainment cabinet in Wenge finish with open media shelves and concealed storage compartments for set-top boxes and decor.",
+                "estimated_price": 4999.0,
+                "quantity": 1,
+                "search_terms": "Bluewud Primus TV entertainment unit engineered wood Flipkart",
+                "shopping_links": {
+                  "amazon": "https://www.amazon.in/s?k=Bluewud+Primus+TV+entertainment+unit+engineered+wood+Flipkart",
+                  "flipkart": "https://www.flipkart.com/search?q=Bluewud+Primus+TV+entertainment+unit+engineered+wood+Flipkart",
+                  "ikea": "https://www.ikea.com/in/en/search/?q=Bluewud+Primus+TV+entertainment+unit+engineered+wood+Flipkart",
+                  "myntra": "https://www.myntra.com/search?q=Bluewud+Primus+TV+entertainment+unit+engineered+wood+Flipkart",
+                  "ajio": "https://www.ajio.com/search/?text=Bluewud+Primus+TV+entertainment+unit+engineered+wood+Flipkart"
+                }
+              },
+              {
+                "name": "DeckUp Versa Engineered Wood Coffee Table with Shelf",
+                "description": "Modern rectangular centre coffee table in Dark Wenge matte finish featuring lower utility shelving for magazines and living room essentials.",
+                "estimated_price": 3499.0,
+                "quantity": 1,
+                "search_terms": "DeckUp Versa coffee table engineered wood living room Amazon",
+                "shopping_links": {
+                  "amazon": "https://www.amazon.in/s?k=DeckUp+Versa+coffee+table+engineered+wood+living+room+Amazon",
+                  "flipkart": "https://www.flipkart.com/search?q=DeckUp+Versa+coffee+table+engineered+wood+living+room+Amazon",
+                  "ikea": "https://www.ikea.com/in/en/search/?q=DeckUp+Versa+coffee+table+engineered+wood+living+room+Amazon",
+                  "myntra": "https://www.myntra.com/search?q=DeckUp+Versa+coffee+table+engineered+wood+living+room+Amazon",
+                  "ajio": "https://www.ajio.com/search/?text=DeckUp+Versa+coffee+table+engineered+wood+living+room+Amazon"
+                }
+              }
+            ]
+          }
+        ],
+        "remaining_budget": 4304.0,
+        "additional_suggestions": [
+          "Use the remaining Rs. 4,304.00 buffer for fan installation/electrician charges and dining chair sets (e.g., plastic moulded Eames-style dining chairs available on Flipkart/Amazon for ~Rs. 1,000 each).",
+          "Pair warm white 4W LED filament bulbs with the geometric pendant light to enhance cosy living room evenings.",
+          "For the kitchen, ensure the 20W LED batten is placed directly above the countertop workspace to avoid shadows while prepping."
+        ],
+        "calculation_table": [
+          {
+            "category": "lighting",
+            "items_count": 3,
+            "total_cost": 1999.0,
+            "percentage_of_budget": 6.66
+          },
+          {
+            "category": "ceiling_fans",
+            "items_count": 1,
+            "total_cost": 1650.0,
+            "percentage_of_budget": 5.5
+          },
+          {
+            "category": "dining",
+            "items_count": 1,
+            "total_cost": 7499.0,
+            "percentage_of_budget": 25.0
+          },
+          {
+            "category": "furniture",
+            "items_count": 2,
+            "total_cost": 8498.0,
+            "percentage_of_budget": 28.33
+          }
+        ]
+      }
+    },
+    {
+      "id": "00a0ecc1-88ef-47f4-a10e-66ee921e2f70",
+      "username": "Jeevanandham.M",
+      "timestamp": "2026-09-30T04:37:17.123390",
+      "recommendation_type": "party",
+      "input_summary": {
+        "total_budget": 30000.0,
+        "num_guests": 30,
+        "party_type": "Birthday",
+        "venue_type": "Home",
+        "needs_catering": true,
+        "needs_decoration": true,
+        "needs_entertainment": true,
+        "additional_requirements": null
+      },
+      "result_summary": {
+        "total_budget": 30000.0,
+        "remaining_budget": 1000.0
+      },
+      "full_result": {
+        "total_budget": 30000.0,
+        "budget_breakdown": [
+          {
+            "category": "venue",
+            "allocation": 1000.0,
+            "items": [
+              {
+                "name": "Disposable Dinnerware & Setup Accessories",
+                "description": "Eco-friendly bagasse plates, wooden cutlery, napkins, and cups for 30 guests",
+                "estimated_price": 1000.0,
+                "quantity": 1,
+                "search_terms": "ecofriendly disposable party plates cutlery set Amazon India",
+                "shopping_links": {
+                  "google": "https://www.google.com/search?q=ecofriendly+disposable+party+plates+cutlery+set+Amazon+India",
+                  "booking": "https://www.booking.com/search.html?ss=ecofriendly+disposable+party+plates+cutlery+set+Amazon+India",
+                  "makemytrip": "https://www.makemytrip.com/hotels/hotel-listing/?searchText=ecofriendly+disposable+party+plates+cutlery+set+Amazon+India",
+                  "oyorooms": "https://www.oyorooms.com/search/?location=ecofriendly+disposable+party+plates+cutlery+set+Amazon+India",
+                  "nobroker": "https://www.nobroker.in/property/search?searchTerm=ecofriendly+disposable+party+plates+cutlery+set+Amazon+India"
+                }
+              }
+            ]
+          },
+          {
+            "category": "catering",
+            "allocation": 17000.0,
+            "items": [
+              {
+                "name": "Party Buffet Catering / Mini Meal Boxes",
+                "description": "Multi-course meal (starters, main course, bread, rice, dessert) from a local caterer or cloud kitchen at Rs. 450 per head",
+                "estimated_price": 13500.0,
+                "quantity": 30,
+                "search_terms": "birthday party bulk catering Swiggy Zomato meal boxes",
+                "shopping_links": {
+                  "swiggy": "https://www.swiggy.com/search?query=birthday+party+bulk+catering+Swiggy+Zomato+meal+boxes",
+                  "zomato": "https://www.zomato.com/search?q=birthday+party+bulk+catering+Swiggy+Zomato+meal+boxes"
+                }
+              },
+              {
+                "name": "Themed Birthday Cake (2 kg)",
+                "description": "2 kg customized fondant or cream birthday cake from a bakery like Theobroma or Bakingo",
+                "estimated_price": 2000.0,
+                "quantity": 1,
+                "search_terms": "2kg designer birthday cake Bakingo Ferns N Petals",
+                "shopping_links": {
+                  "swiggy": "https://www.swiggy.com/search?query=2kg+designer+birthday+cake+Bakingo+Ferns+N+Petals",
+                  "zomato": "https://www.zomato.com/search?q=2kg+designer+birthday+cake+Bakingo+Ferns+N+Petals"
+                }
+              },
+              {
+                "name": "Welcome Drinks & Mocktails",
+                "description": "Assorted fruit juices, soft drinks, and soda syrups for welcome beverages",
+                "estimated_price": 1500.0,
+                "quantity": 1,
+                "search_terms": "party beverages cold drinks mocktail mixers Blinkit Zepto",
+                "shopping_links": {
+                  "swiggy": "https://www.swiggy.com/search?query=party+beverages+cold+drinks+mocktail+mixers+Blinkit+Zepto",
+                  "zomato": "https://www.zomato.com/search?q=party+beverages+cold+drinks+mocktail+mixers+Blinkit+Zepto"
+                }
+              }
+            ]
+          },
+          {
+            "category": "decoration",
+            "allocation": 4500.0,
+            "items": [
+              {
+                "name": "Home Birthday Balloon Arch & Backdrop Setup",
+                "description": "Standard metallic balloon garland, foil 'Happy Birthday' banner, and ring backdrop installed by professional decorators",
+                "estimated_price": 3500.0,
+                "quantity": 1,
+                "search_terms": "birthday balloon decoration service Urban Company",
+                "shopping_links": {
+                  "amazon": "https://www.amazon.in/s?k=birthday+balloon+decoration+service+Urban+Company",
+                  "flipkart": "https://www.flipkart.com/search?q=birthday+balloon+decoration+service+Urban+Company",
+                  "meesho": "https://www.meesho.com/search?q=birthday+balloon+decoration+service+Urban+Company",
+                  "myntra": "https://www.myntra.com/search?q=birthday+balloon+decoration+service+Urban+Company"
+                }
+              },
+              {
+                "name": "Photo Booth Props & Fairy Lights",
+                "description": "Selfie props kit, party sashes, and warm fairy lights for living room ambiance",
+                "estimated_price": 1000.0,
+                "quantity": 1,
+                "search_terms": "birthday photo booth props fairy lights Party Hunterz",
+                "shopping_links": {
+                  "amazon": "https://www.amazon.in/s?k=birthday+photo+booth+props+fairy+lights+Party+Hunterz",
+                  "flipkart": "https://www.flipkart.com/search?q=birthday+photo+booth+props+fairy+lights+Party+Hunterz",
+                  "meesho": "https://www.meesho.com/search?q=birthday+photo+booth+props+fairy+lights+Party+Hunterz",
+                  "myntra": "https://www.myntra.com/search?q=birthday+photo+booth+props+fairy+lights+Party+Hunterz"
+                }
+              }
+            ]
+          },
+          {
+            "category": "entertainment",
+            "allocation": 6500.0,
+            "items": [
+              {
+                "name": "Karaoke Speaker & Wireless Mics Rental",
+                "description": "1-day rental of high-bass party speaker with 2 wireless microphones for karaoke and music",
+                "estimated_price": 2500.0,
+                "quantity": 1,
+                "search_terms": "party sound system speaker mic rental local AV vendor",
+                "shopping_links": {
+                  "bookmyshow": "https://in.bookmyshow.com/search?q=party+sound+system+speaker+mic+rental+local+AV+vendor",
+                  "amazon": "https://www.amazon.in/s?k=party+sound+system+speaker+mic+rental+local+AV+vendor",
+                  "flipkart": "https://www.flipkart.com/search?q=party+sound+system+speaker+mic+rental+local+AV+vendor"
+                }
+              },
+              {
+                "name": "Freelance Party Host / Game Coordinator",
+                "description": "Engaging emcee for 1.5 to 2 hours to conduct interactive party games, tambola, and trivia for 30 guests",
+                "estimated_price": 4000.0,
+                "quantity": 1,
+                "search_terms": "freelance birthday party anchor emcee UrbanPro",
+                "shopping_links": {
+                  "bookmyshow": "https://in.bookmyshow.com/search?q=freelance+birthday+party+anchor+emcee+UrbanPro",
+                  "amazon": "https://www.amazon.in/s?k=freelance+birthday+party+anchor+emcee+UrbanPro",
+                  "flipkart": "https://www.flipkart.com/search?q=freelance+birthday+party+anchor+emcee+UrbanPro"
+                }
+              }
+            ]
+          }
+        ],
+        "venue_suggestions": [
+          {
+            "name": "Living Room / Home Terrace",
+            "type": "Private Residence",
+            "capacity": 30,
+            "estimated_cost": 0.0,
+            "search_terms": "home birthday party setup ideas",
+            "search_links": {
+              "google": "https://www.google.com/search?q=home+birthday+party+setup+ideas",
+              "booking": "https://www.booking.com/search.html?ss=home+birthday+party+setup+ideas",
+              "makemytrip": "https://www.makemytrip.com/hotels/hotel-listing/?searchText=home+birthday+party+setup+ideas",
+              "oyorooms": "https://www.oyorooms.com/search/?location=home+birthday+party+setup+ideas",
+              "nobroker": "https://www.nobroker.in/property/search?searchTerm=home+birthday+party+setup+ideas"
+            }
+          },
+          {
+            "name": "Residential Society Clubhouse",
+            "type": "Community Hall",
+            "capacity": 50,
+            "estimated_cost": 2500.0,
+            "search_terms": "society clubhouse party hall booking",
+            "search_links": {
+              "google": "https://www.google.com/search?q=society+clubhouse+party+hall+booking",
+              "booking": "https://www.booking.com/search.html?ss=society+clubhouse+party+hall+booking",
+              "makemytrip": "https://www.makemytrip.com/hotels/hotel-listing/?searchText=society+clubhouse+party+hall+booking",
+              "oyorooms": "https://www.oyorooms.com/search/?location=society+clubhouse+party+hall+booking",
+              "nobroker": "https://www.nobroker.in/property/search?searchTerm=society+clubhouse+party+hall+booking"
+            }
+          }
+        ],
+        "remaining_budget": 1000.0,
+        "additional_suggestions": [
+          "Use quick-commerce apps like Blinkit or Zepto for last-minute party ice, chips, and extra beverages to avoid waste.",
+          "Curate a collaborative Spotify party playlist ahead of time to stream directly to the rented Bluetooth speaker.",
+          "Reserve the Rs. 1000 remaining buffer for tip distribution or incidental purchases like extra snacks."
+        ],
+        "calculation_table_inr": [
+          {
+            "category": "venue",
+            "items_count": 1,
+            "total_cost": 1000.0,
+            "percentage_of_budget": 3.33
+          },
+          {
+            "category": "catering",
+            "items_count": 3,
+            "total_cost": 17000.0,
+            "percentage_of_budget": 56.67
+          },
+          {
+            "category": "decoration",
+            "items_count": 2,
+            "total_cost": 4500.0,
+            "percentage_of_budget": 15.0
+          },
+          {
+            "category": "entertainment",
+            "items_count": 2,
+            "total_cost": 6500.0,
+            "percentage_of_budget": 21.67
+          }
+        ]
+      }
+    }
+  ]
+}
